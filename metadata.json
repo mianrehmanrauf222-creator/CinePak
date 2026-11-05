@@ -1,0 +1,6 @@
+{
+  "name": "CinePak — Your World of Movies",
+  "description": "Stream the best of Pakistani, Punjabi, Hindi, and International cinema in high definition on CinePak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
